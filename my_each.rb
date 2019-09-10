@@ -10,8 +10,6 @@ def my_each(array)
       count += 1
     end
     
-  # else
-  #   return array
   end
 
   array    
